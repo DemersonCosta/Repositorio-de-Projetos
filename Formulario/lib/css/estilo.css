@@ -1,0 +1,23 @@
+h11 {
+    color:red;
+}
+
+#logo {
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+}
+#editar {
+    margin-top: 30px;
+}
+
+/*Angularjs*/
+.selecionado {
+    background-color: yellow;
+}
+.negrito {
+    font-weight: bold;
+}
